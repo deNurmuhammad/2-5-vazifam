@@ -1,0 +1,13 @@
+:root{
+    background: black;
+    width: 845px;
+    height: 450px;
+    display:flex;
+}
+.container{
+    width: var(845px);
+  height: var(450px);
+    display: flex;
+    padding-left:250px;
+    margin: 100px auto;
+}
